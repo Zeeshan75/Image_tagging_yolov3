@@ -21,22 +21,22 @@ Applications:
 	 3. Can be used the predicted tags in Searching the related images from the browser.
 	 4. Classification of Images for websites with Large visual Databases.
 
-Run the file as: 
-************************
+Run the file as: \n
+************************\n
 python3 image_tagging.py
 
 
-output:
-********************
-[INFO] loading YOLO from disk...
-tvmonitor, keyboard
-person, chair, umbrella
-person, chair
-apple, person, diningtable, pottedplant, chair, vase
-suitcase, handbag, person
-laptop, keyboard, tvmonitor, person, cup, chair
-pottedplant, scissors
-mouse, keyboard, tvmonitor, pottedplant, chair
-mouse, keyboard
+output:\n
+********************\n
+[INFO] loading YOLO from disk...\n
+tvmonitor, keyboard\n
+person, chair, umbrella\n
+person, chair\n
+apple, person, diningtable, pottedplant, chair, vase\n
+suitcase, handbag, person\n
+laptop, keyboard, tvmonitor, person, cup, chair\n
+pottedplant, scissors\n
+mouse, keyboard, tvmonitor, pottedplant, chair\n
+mouse, keyboard\n
 
 
