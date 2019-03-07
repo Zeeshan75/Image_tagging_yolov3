@@ -20,3 +20,23 @@ Applications:
 	 	inappropriate or offensive images.
 	 3. Can be used the predicted tags in Searching the related images from the browser.
 	 4. Classification of Images for websites with Large visual Databases.
+
+Run the file as: 
+************************
+python3 image_tagging.py
+
+
+output:
+********************
+[INFO] loading YOLO from disk...
+tvmonitor, keyboard
+person, chair, umbrella
+person, chair
+apple, person, diningtable, pottedplant, chair, vase
+suitcase, handbag, person
+laptop, keyboard, tvmonitor, person, cup, chair
+pottedplant, scissors
+mouse, keyboard, tvmonitor, pottedplant, chair
+mouse, keyboard
+
+
